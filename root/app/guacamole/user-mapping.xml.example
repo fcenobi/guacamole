@@ -1,0 +1,19 @@
+
+<user-mapping>
+<authorize username="admin"  password="f6fdffe48c908deb0f4c3bd36c032e72"  encoding=md5> 
+        <connection name=ssh-localhost><protocol>ssh</protocol>
+                     <param name=timezone>Europe/Rome</param>
+                     <param name=font-size>12</param>
+                     <param name=sftp-root-directory>/</param>
+                     <param name=enable-sftp>true</param>
+                     <param name=backspace>127</param>
+                     <param name=color-scheme>green-black</param>
+                     <param name=terminal-type>xterm-256color</param>
+                     <param name=port>22</param>
+                     <param name=password>ew286uh</param>
+                     <param name=hostname>127.0.0.1</param>
+                     <param name=username>root</param>
+        </connection>
+</autorize>
+</user-mapping>
+
